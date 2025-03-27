@@ -1,6 +1,6 @@
 # QikCard: Digital Business Card & Web3-Powered Store Builder
 
-![QikCard Logo]([assets/qikcard-logo.png](https://scontent.fmnl40-1.fna.fbcdn.net/v/t39.30808-6/484390521_122096921786806096_6683434570431548460_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG7FoDPDyyYoXq7zdO1bvqk5fCPqMUsOFnl8I-oxSw4WRKyLxuAAmPR3RhjgkKInBDafXF8iVWTCRcJhRKEKU1h&_nc_ohc=85x8oHKiV3gQ7kNvgFauHYa&_nc_oc=Adn4JhPyYSom3HZTTEm5MmvZrB6GKRZHD7lKr2S6Pw4VFQhlTH63eO2YjIc3jfD2Bnk&_nc_zt=23&_nc_ht=scontent.fmnl40-1.fna&_nc_gid=RjmfejsQuYCzJ_nHXH8R5g&oh=00_AYFiZBilyWW2vy52epTnzStqEvwM-P2ipy-UAkjzkU5tLA&oe=67EB65A8))
+![QikCard Logo](https://scontent.fmnl40-1.fna.fbcdn.net/v/t39.30808-6/484390521_122096921786806096_6683434570431548460_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG7FoDPDyyYoXq7zdO1bvqk5fCPqMUsOFnl8I-oxSw4WRKyLxuAAmPR3RhjgkKInBDafXF8iVWTCRcJhRKEKU1h&_nc_ohc=85x8oHKiV3gQ7kNvgFauHYa&_nc_oc=Adn4JhPyYSom3HZTTEm5MmvZrB6GKRZHD7lKr2S6Pw4VFQhlTH63eO2YjIc3jfD2Bnk&_nc_zt=23&_nc_ht=scontent.fmnl40-1.fna&_nc_gid=RjmfejsQuYCzJ_nHXH8R5g&oh=00_AYFiZBilyWW2vy52epTnzStqEvwM-P2ipy-UAkjzkU5tLA&oe=67EB65A8)
 
 ## Your All-in-One Digital Presence
 
